@@ -68,7 +68,4 @@ $ git push -u origin Branch_Name
 
 - Voila! Your Pull Request has been submitted and will be reviewed by the moderators and merged.🥳
 
-# contributing image 
-
-![Screenshot (849)](https://user-images.githubusercontent.com/98539013/192106367-accdfa6b-2a6a-4684-9df3-c39d7ecec9ba.png)
 
